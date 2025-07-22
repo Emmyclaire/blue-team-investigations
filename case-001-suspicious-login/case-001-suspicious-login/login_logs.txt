@@ -1,0 +1,4 @@
+Jul 19 03:13:02 server01 sshd[1999]: Accepted password for jdoe from 182.75.92.47 port 54322 ssh2
+Jul 19 03:13:05 server01 sshd[1999]: pam_unix(sshd:session): session opened for user jdoe by (uid=0)
+Jul 19 08:45:33 server01 sshd[2021]: Accepted password for jdoe from 10.0.0.45 port 60211 ssh2
+Jul 19 08:45:36 server01 sshd[2021]: pam_unix(sshd:session): session opened for user jdoe by (uid=0)
